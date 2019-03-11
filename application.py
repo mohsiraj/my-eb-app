@@ -90,12 +90,12 @@ welcome = """
   }
 
   h1 {
-    font-size: 800%;
+    font-size: 500%;
     font-weight: normal;
     margin-bottom: 0em;
   }
   h2 {
-    font-size: 2000%;
+    font-size: 200%;
     font-weight: normal;
     margin-bottom: 0em;
   }
