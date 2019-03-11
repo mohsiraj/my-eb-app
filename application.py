@@ -95,7 +95,7 @@ welcome = """
     margin-bottom: 0em;
   }
   h2 {
-    font-size: 200%;
+    font-size: 300%;
     font-weight: normal;
     margin-bottom: 0em;
   }
